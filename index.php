@@ -13,7 +13,9 @@ $karthi=md5("karthi");
 $k1=md5("karthi");
 echo "$karthi";
 ?>
+<html>
 <br>
+</html>
 <?php
 echo  "$k1";
 ?>
