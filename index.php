@@ -11,6 +11,6 @@ else{
 }
 $karthi=md5("karthi");
 $k1=md5("karthi");
-echo $karthi;
-echo $k1;
+echo "$karthi";
+echo  "$k1";
 ?>
