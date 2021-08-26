@@ -9,4 +9,8 @@ if(mail($to_email,$subject,$body,$headers)){
 else{
 	echo "Failed";
 }
+$karthi=md5("karthi");
+$k1=md5("karthi");
+echo $karthi;
+echo $k1;
 ?>
