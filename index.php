@@ -12,5 +12,8 @@ else{
 $karthi=md5("karthi");
 $k1=md5("karthi");
 echo "$karthi";
+?>
+<br>
+<?php
 echo  "$k1";
 ?>
